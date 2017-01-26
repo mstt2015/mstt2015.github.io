@@ -1,54 +1,54 @@
 .navbar-default .navbar-brand {
-    color: #28e3af;
+    color: #00BFFF;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #28e3af;
+    color: #00BFFF;
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #28e3af;
-    background-color: #28e3af;
+    border-color: #00BFFF;
+    background-color: #00BFFF;
 }
 
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #28e3af;
+    color: #00BFFF;
 }
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #28e3af;
+    background-color: #00BFFF;
 }
 
 .navbar-default .navbar-nav>.active>a {
-    background-color: #28e3af;
+    background-color: #00BFFF;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    background-color: #28e3af;
+    background-color: #00BFFF;
 }
 
 .menu-wrap a:hover,
 .menu-wrap a:focus {
-	color: #28e3af;
+	color: #00BFFF;
 }
 
 .menu-wrap .logo {
-    color: #28e3af;
+    color: #00BFFF;
 }
 
 .menu-button {
-    background: #28e3af;
+    background: #00BFFF;
 }
 
 .header .intro-text h1 span {
-    color: #28e3af;
+    color: #00BFFF;
 }
 
 .header .intro-text p {
@@ -58,38 +58,38 @@
 
 
 .main-title strong {
-    color: #28e3af;
+    color: #00BFFF;
 }
 
 .portfolio-caption a i {
-    color: #28e3af;
+    color: #00BFFF;
 }
 
 
 .welcome-section:hover .border {
-    border-color: #28e3af;
+    border-color: #00BFFF;
 }
 
 .welcome-section:hover h4 {
-    color: #28e3af;
+    color: #00BFFF;
 }
 
 .about-text li i {
-    color: #28e3af;
+    color: #00BFFF;
 }
 
 .about-us-section-2 .carousel-indicators li,
 .project-image .carousel-indicators li {
-	border: 2px solid #28e3af !important;
+	border: 2px solid #00BFFF !important;
 }
 
 .about-us-section-2 .carousel-indicators .active,
 .project-image .carousel-indicators .active {
-	background-color: #28e3af;
+	background-color: #00BFFF;
 }
 
 .owl-theme .owl-controls .owl-buttons div {
-	background: #28e3af;
+	background: #00BFFF;
 }
 
 
@@ -98,36 +98,36 @@
 }
 
 .owl-theme .owl-controls .owl-page.active{
-    background-color: #28e3af;
+    background-color: #00BFFF;
 }
 
 .contact .form-control:focus {
-    border-color: #28e3af;
+    border-color: #00BFFF;
     box-shadow: none;
 }
 
 
 
 .team-details li a {
-    background: #28e3af;
+    background: #00BFFF;
 }
 
 .progress-bar {
-    background: #28e3af;
+    background: #00BFFF;
 }
 
 
 .pricing-tables .pricing-table.highlight-plan .plan-name {
-    background: #28e3af;
+    background: #00BFFF;
 }
 
 .pricing-tables .pricing-table.highlight-plan .plan-signup {
-    background: #28e3af;
+    background: #00BFFF;
 }
 
 
 #main-slide .slider-content h1 strong {
-    color: #28e3af;
+    color: #00BFFF;
 }
 
 .latest-post .post-details .date {
@@ -135,17 +135,17 @@
 }
 
 .custom-tab .nav-tabs.nav-justified {
-    background: #28e3af;
+    background: #00BFFF;
 }
 
 .plan-name {
-    background: #28e3af;
+    background: #00BFFF;
 }
 
 .plan-signup {
-    background: #28e3af;
+    background: #00BFFF;
 }
 
 .dot1, .dot2 {
-    background-color: #28e3af;
+    background-color: #00BFFF;
 }

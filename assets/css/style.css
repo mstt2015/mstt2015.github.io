@@ -12,7 +12,7 @@ body {
 }
 
 a {
-    color: #28e3af;
+    color: #00BFFF;
 }
 
 a:hover,
@@ -30,7 +30,7 @@ p {
 }
 
 h1 span{
-  color: #28e3af;
+  color: #00BFFF;
 }
 
 @-webkit-viewport {
@@ -110,8 +110,8 @@ li {
     text-transform: uppercase;
     font-weight: 300;
     color: #fff;
-    border-color: #28e3af;
-    background-color: #28e3af;
+    border-color: #00BFFF;
+    background-color: #00BFFF;
     -webkit-border-radius:3px;
     -moz-border-radius:3px;
     -o-border-radius:3px;
@@ -128,14 +128,14 @@ li {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
     color: #fff;
-    border-color: #28e3af;
-    background-color: #28e3af;
+    border-color: #00BFFF;
+    background-color: #00BFFF;
     //background-color: none !important;
 }
 
 .btn-circle {
-    border-color: #28e3af;
-    background-color: #28e3af;
+    border-color: #00BFFF;
+    background-color: #00BFFF;
     color: #fff;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
@@ -521,7 +521,7 @@ li {
 .about-us-section-2 {
     padding-top: 120px;
     padding-bottom: 120px;
-    background-color: #28e3af;
+    background-color: #00BFFF;
 }
 
 .welcome-section {
@@ -768,7 +768,7 @@ li {
 .portfolio-section {
     padding-top: 80px;
     padding-bottom: 120px;
-    background: #28e3af;
+    background: #00BFFF;
 }
 
 .portfolio-section-2 {
@@ -976,8 +976,8 @@ and (min-width : 551px){
     padding:25px;
     margin-bottom: 10px;
     position: relative;
-    color: #28e3af;
-    border: 1px solid #28e3af;
+    color: #00BFFF;
+    border: 1px solid #00BFFF;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -o-transition: all 0.3s;
@@ -1005,7 +1005,7 @@ and (min-width : 551px){
 }
 
 .service:hover i {
-    background: #28e3af;
+    background: #00BFFF;
     color: #fff;
 }
 
@@ -1013,7 +1013,7 @@ and (min-width : 551px){
     margin: 0 30%;
     margin-top: 10px;
     margin-bottom: 15px;
-    border-color: #28e3af;
+    border-color: #00BFFF;
 }
 
 
@@ -1030,7 +1030,7 @@ and (min-width : 551px){
 /*----------------------------------------------------------*/
 
 .fun-facts {
-    background: #28e3af;
+    background: #00BFFF;
     background-attachment: fixed;
     background-size: cover;
     padding-top: 120px;
@@ -1055,14 +1055,14 @@ and (min-width : 551px){
 }
 
 .counter-item i {
-    color: #28e3af;
+    color: #00BFFF;
   font-size:40px;
     font-weight: 300;
 }
 
 
 .timer {
-    color: #28e3af;
+    color: #00BFFF;
   font-size: 48px;
   font-weight: 300;
   text-transform: uppercase;
@@ -1248,7 +1248,7 @@ and (min-width : 551px){
 }
 
 .call-to-action h1 strong {
-    color: #28e3af;
+    color: #00BFFF;
     font-weight: 600;
 }
 
@@ -1283,7 +1283,7 @@ and (min-width : 551px){
 }
 
 .latest-post h4 {
-    color: #28e3af;
+    color: #00BFFF;
     padding-top: 20px;
     padding-bottom: 5px;
 }
@@ -1314,7 +1314,7 @@ and (min-width : 551px){
 }
 
 .latest-post .post-details li i {
-    color: #28e3af;
+    color: #00BFFF;
     padding-right: 5px;
 }
 
@@ -1363,7 +1363,7 @@ and (min-width : 551px){
 .client-section {
     padding-top: 80px;
     padding-bottom: 40px;
-    background-color: #28e3af;
+    background-color: #00BFFF;
 }
 
 .client-section .section-title h2 {
@@ -1487,7 +1487,7 @@ footer {
     //margin-top: 100px;
     padding: 25px 0;
     background: #111;
-    border-top: 2px solid #28e3af;
+    border-top: 2px solid #00BFFF;
 }
 
 .copyright {
@@ -1504,7 +1504,7 @@ footer {
 .footer-social li a {
     padding: 8px;
     color: #fff;
-    background: #28e3af;
+    background: #00BFFF;
 }
 
 .footer-social li i {
