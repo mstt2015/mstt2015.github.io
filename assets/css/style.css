@@ -2,6 +2,7 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600,400italic);
 @import url(http://fonts.googleapis.com/css?family=Oswald:300,400,700);
 @import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow);
+@import url('https://fonts.googleapis.com/css?family=Courgette&subset=latin-ext');
 
 body {
     overflow-x: hidden;
@@ -63,7 +64,10 @@ a.active {
     outline: 0;
 }
 
-h1,
+h1 {
+    font-family: 'Roboto', sans-serif;
+    //font-weight: 700;
+  }
 h2,
 h3,
 h4,
@@ -479,7 +483,13 @@ li {
     -moz-animation-duration: 2s;
     -o-animation-duration: 2s;
     animation-duration: 2s;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Courgette', cursive;
+    color: #000;
+}
+
+.header .intro-text h1 span {
+  background-color: #00BFFF;
+  color: white;
 }
 
 .header .intro-text p {
@@ -1671,4 +1681,14 @@ footer {
 
 .package-para{
   margin-top: 30px;
+}
+
+.points{
+  color: #333;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.support-card{
+  margin-left: 20px;
 }
